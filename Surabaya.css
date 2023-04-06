@@ -1,0 +1,1614 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/30948420804_f16fe12d01_o.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 800px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  font-size: 5.625rem;
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: 304px auto 0 0;
+}
+
+.u-section-1 .u-text-2 {
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: 18px 135px 60px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 660px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 6rem;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 506px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 380px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 239px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3.75rem;
+  }
+} .u-section-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/3dca3190ae4214a50e7ac2a1598e5e62825bd9398c36c1c320a775583a1c0142c2c0dd439958e4f22b80cda195fa461ac32239936c775d69a63fa3_1280.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 750px;
+}
+
+.u-section-2 .u-layout-wrap-1 {
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: 65px auto 65px 0;
+}
+
+.u-section-2 .u-image-1 {
+  min-height: 315px;
+  background-image: url("images/tugu_pahlawan_surabaya-1-1.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-2 .u-layout-cell-2 {
+  min-height: 315px;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 30px 60px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 0;
+}
+
+.u-section-2 .u-text-2 {
+  margin: 28px 0 0;
+}
+
+.u-section-2 .u-btn-1 {
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  background-image: none;
+  border-style: none;
+  text-transform: uppercase;
+  font-weight: 600;
+  margin: 40px auto 0 0;
+}
+
+.u-section-2 .u-layout-cell-3 {
+  min-height: 315px;
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-scale: 1;
+}
+
+.u-section-2 .u-container-layout-3 {
+  padding: 30px 60px;
+}
+
+.u-section-2 .u-text-3 {
+  margin: 10px 0 0;
+}
+
+.u-section-2 .u-text-4 {
+  margin: 32px 0 0;
+}
+
+.u-section-2 .u-btn-2 {
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  background-image: none;
+  border-style: solid;
+  text-transform: uppercase;
+  font-weight: 600;
+  margin: 27px auto 0 0;
+  padding: 7px 0;
+}
+
+.u-section-2 .u-image-2 {
+  min-height: 315px;
+  background-image: url("images/ini-5-alasan-kenapa-kota-surabaya-disebut-kota-pahlawan-nWb0plbz3Y.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-4 {
+  padding: 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-layout-wrap-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-2 .u-btn-1 {
+    height: 38px;
+    width: 99px;
+    padding: 7px 0;
+  }
+
+  .u-section-2 .u-btn-2 {
+    height: 38px;
+    width: 99px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-2 .u-layout-cell-3 {
+    min-height: 100px;
+  }
+
+  .u-section-2 .u-container-layout-3 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 1780px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+} .u-section-3 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("images/3883fe7b2e405283de69323582e7bbcae475134ea9cbcd5026ca84d918fee8b977b60da86e04b2025041bd45bce9a2c5dc8068948407b99e55ae27_1280.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 650px;
+}
+
+.u-section-3 .u-layout-wrap-1 {
+  margin: 44px auto 44px 0;
+}
+
+.u-section-3 .u-image-1 {
+  min-height: 574px;
+  background-image: url("images/g1.jpg");
+  background-position: 50% 50%;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+}
+
+.u-section-3 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-3 .u-layout-cell-2 {
+  min-height: 412px;
+  --animation-custom_in-translate_x: 300px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+}
+
+.u-section-3 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-3 .u-text-1 {
+  font-size: 3rem;
+  margin: 0;
+}
+
+.u-section-3 .u-text-2 {
+  font-size: 1rem;
+  margin: 18px 0 0;
+}
+
+.u-section-3 .u-layout-cell-3 {
+  min-height: 412px;
+}
+
+.u-section-3 .u-container-layout-3 {
+  padding: 0 30px;
+}
+
+.u-section-3 .u-text-3 {
+  --animation-custom_in-translate_x: 300px;
+  --animation-custom_in-scale: 1;
+  --animation-custom_in-translate_y: 0px;
+  margin: 100px 0 0;
+}
+
+.u-section-3 .u-layout-cell-4 {
+  min-height: 596px;
+}
+
+.u-section-3 .u-container-layout-4 {
+  padding: 30px;
+}
+
+.u-section-3 .u-text-4 {
+  --animation-custom_in-translate_x: 300px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: 0;
+}
+
+.u-section-3 .u-layout-cell-5 {
+  min-height: 596px;
+}
+
+.u-section-3 .u-container-layout-5 {
+  padding: 30px;
+}
+
+.u-section-3 .u-text-5 {
+  --animation-custom_in-translate_x: 300px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 350px;
+  }
+
+  .u-section-3 .u-layout-wrap-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 473px;
+    background-size: auto 130%;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 340px;
+  }
+
+  .u-section-3 .u-layout-cell-3 {
+    min-height: 340px;
+  }
+
+  .u-section-3 .u-layout-cell-4 {
+    min-height: 491px;
+  }
+
+  .u-section-3 .u-layout-cell-5 {
+    min-height: 491px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 801px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 725px;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-3 .u-layout-cell-3 {
+    min-height: 100px;
+  }
+
+  .u-section-3 .u-layout-cell-4 {
+    min-height: 100px;
+  }
+
+  .u-section-3 .u-layout-cell-5 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 820px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 544px;
+  }
+
+  .u-section-3 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-container-layout-5 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 619px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 343px;
+  }
+} .u-section-4 {
+  background-image: url("images/1677056343_1.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-4 .u-sheet-1 {
+  min-height: 1023px;
+}
+
+.u-section-4 .u-text-1 {
+  margin: 70px 193px 0;
+}
+
+.u-section-4 .u-btn-1 {
+  background-image: none;
+  margin: 20px auto 0 501px;
+  padding: 13px 30px 14px;
+}
+
+.u-section-4 .u-list-1 {
+  margin: 41px 0 60px;
+}
+
+.u-section-4 .u-repeater-1 {
+  grid-template-columns: repeat(3, calc(33.3333% - 13.3333px));
+  min-height: 656px;
+  grid-gap: 20px;
+}
+
+.u-section-4 .u-image-1 {
+  background-image: url("images/pintu-masuk-wisata-ampel.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-4 .u-container-layout-1 {
+  padding: 10px;
+}
+
+.u-section-4 .u-group-1 {
+  min-height: 113px;
+  height: auto;
+  width: 236px;
+  margin: 0 auto;
+}
+
+.u-section-4 .u-container-layout-2 {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.u-section-4 .u-text-2 {
+  font-size: 1rem;
+  background-image: none;
+  margin: 18px 10px 0;
+}
+
+.u-section-4 .u-btn-2 {
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.75rem;
+  letter-spacing: 1px;
+  background-image: none;
+  margin: 28px auto 0;
+}
+
+.u-section-4 .u-image-2 {
+  background-image: url("images/Klenteng-Sanggar-Agung-Surabaya.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-4 .u-container-layout-3 {
+  padding: 10px;
+}
+
+.u-section-4 .u-group-2 {
+  min-height: 113px;
+  height: auto;
+  width: 236px;
+  margin: 0 auto;
+}
+
+.u-section-4 .u-container-layout-4 {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.u-section-4 .u-text-3 {
+  font-size: 1rem;
+  background-image: none;
+  margin: 18px 10px 0;
+}
+
+.u-section-4 .u-btn-3 {
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.75rem;
+  letter-spacing: 1px;
+  background-image: none;
+  margin: 28px auto 0;
+}
+
+.u-section-4 .u-image-3 {
+  background-image: url("images/765882152.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-4 .u-container-layout-5 {
+  padding: 10px;
+}
+
+.u-section-4 .u-group-3 {
+  min-height: 113px;
+  height: auto;
+  width: 236px;
+  margin: 0 auto;
+}
+
+.u-section-4 .u-container-layout-6 {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.u-section-4 .u-text-4 {
+  font-size: 1rem;
+  background-image: none;
+  margin: 18px 10px 0;
+}
+
+.u-section-4 .u-btn-4 {
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.75rem;
+  letter-spacing: 1px;
+  background-image: none;
+  margin: 28px auto 0;
+}
+
+.u-section-4 .u-image-4 {
+  background-image: url("images/633c1abb9449e.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-4 .u-container-layout-7 {
+  padding: 10px;
+}
+
+.u-section-4 .u-group-4 {
+  min-height: 113px;
+  height: auto;
+  width: 236px;
+  margin: 0 auto;
+}
+
+.u-section-4 .u-container-layout-8 {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.u-section-4 .u-text-5 {
+  font-size: 1rem;
+  background-image: none;
+  margin: 18px 10px 0;
+}
+
+.u-section-4 .u-btn-5 {
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.75rem;
+  letter-spacing: 1px;
+  background-image: none;
+  margin: 28px auto 0;
+}
+
+.u-section-4 .u-image-5 {
+  background-image: url("images/004985000_1439269472-MSN1.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-4 .u-container-layout-9 {
+  padding: 10px;
+}
+
+.u-section-4 .u-group-5 {
+  min-height: 113px;
+  height: auto;
+  width: 236px;
+  margin: 0 auto;
+}
+
+.u-section-4 .u-container-layout-10 {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.u-section-4 .u-text-6 {
+  font-size: 1rem;
+  background-image: none;
+  margin: 18px 10px 0;
+}
+
+.u-section-4 .u-btn-6 {
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.75rem;
+  letter-spacing: 1px;
+  background-image: none;
+  margin: 28px auto 0;
+}
+
+.u-section-4 .u-image-6 {
+  background-image: url("images/Boyo-min.jpeg");
+  background-position: 50% 50%;
+}
+
+.u-section-4 .u-container-layout-11 {
+  padding: 10px;
+}
+
+.u-section-4 .u-group-6 {
+  min-height: 113px;
+  height: auto;
+  width: 236px;
+  margin: 0 auto;
+}
+
+.u-section-4 .u-container-layout-12 {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.u-section-4 .u-text-7 {
+  font-size: 1rem;
+  background-image: none;
+  margin: 18px 10px 0;
+}
+
+.u-section-4 .u-btn-7 {
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.75rem;
+  letter-spacing: 1px;
+  background-image: none;
+  margin: 28px auto 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 844px;
+  }
+
+  .u-section-4 .u-text-1 {
+    margin-left: 93px;
+    margin-right: 93px;
+  }
+
+  .u-section-4 .u-btn-1 {
+    margin-left: 301px;
+  }
+
+  .u-section-4 .u-list-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-4 .u-repeater-1 {
+    min-height: 541px;
+  }
+
+  .u-section-4 .u-image-1 {
+    --animation-custom_in-translate_x: 0px;
+    --animation-custom_in-translate_y: 0px;
+    --animation-custom_in-opacity: 0;
+    --animation-custom_in-rotate: 0deg;
+    --animation-custom_in-scale: 0.3;
+  }
+
+  .u-section-4 .u-group-1 {
+    height: auto;
+  }
+
+  .u-section-4 .u-container-layout-2 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+  .u-section-4 .u-image-2 {
+    --animation-custom_in-translate_x: 0px;
+    --animation-custom_in-translate_y: 0px;
+    --animation-custom_in-opacity: 0;
+    --animation-custom_in-rotate: 0deg;
+    --animation-custom_in-scale: 0.3;
+  }
+
+  .u-section-4 .u-group-2 {
+    height: auto;
+  }
+
+  .u-section-4 .u-container-layout-4 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+  .u-section-4 .u-image-3 {
+    --animation-custom_in-translate_x: 0px;
+    --animation-custom_in-translate_y: 0px;
+    --animation-custom_in-opacity: 0;
+    --animation-custom_in-rotate: 0deg;
+    --animation-custom_in-scale: 0.3;
+  }
+
+  .u-section-4 .u-group-3 {
+    height: auto;
+  }
+
+  .u-section-4 .u-container-layout-6 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+  .u-section-4 .u-image-4 {
+    --animation-custom_in-translate_x: 0px;
+    --animation-custom_in-translate_y: 0px;
+    --animation-custom_in-opacity: 0;
+    --animation-custom_in-rotate: 0deg;
+    --animation-custom_in-scale: 0.3;
+  }
+
+  .u-section-4 .u-group-4 {
+    height: auto;
+  }
+
+  .u-section-4 .u-container-layout-8 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+  .u-section-4 .u-image-5 {
+    --animation-custom_in-translate_x: 0px;
+    --animation-custom_in-translate_y: 0px;
+    --animation-custom_in-opacity: 0;
+    --animation-custom_in-rotate: 0deg;
+    --animation-custom_in-scale: 0.3;
+  }
+
+  .u-section-4 .u-group-5 {
+    height: auto;
+  }
+
+  .u-section-4 .u-container-layout-10 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+  .u-section-4 .u-image-6 {
+    --animation-custom_in-translate_x: 0px;
+    --animation-custom_in-translate_y: 0px;
+    --animation-custom_in-opacity: 0;
+    --animation-custom_in-rotate: 0deg;
+    --animation-custom_in-scale: 0.3;
+  }
+
+  .u-section-4 .u-group-6 {
+    height: auto;
+  }
+
+  .u-section-4 .u-container-layout-12 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 646px;
+  }
+
+  .u-section-4 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-4 .u-btn-1 {
+    margin-left: 81px;
+  }
+
+  .u-section-4 .u-repeater-1 {
+    grid-template-columns: repeat(2, calc(50% - 9.99997px));
+    min-height: 952px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 485px;
+  }
+
+  .u-section-4 .u-btn-1 {
+    margin-left: 0;
+  }
+
+  .u-section-4 .u-repeater-1 {
+    grid-template-columns: 100%;
+    min-height: 1949px;
+  }
+
+  .u-section-4 .u-container-layout-1 {
+    padding-bottom: 20px;
+  }
+
+  .u-section-4 .u-container-layout-3 {
+    padding-bottom: 20px;
+  }
+
+  .u-section-4 .u-container-layout-5 {
+    padding-bottom: 20px;
+  }
+
+  .u-section-4 .u-container-layout-7 {
+    padding-bottom: 20px;
+  }
+
+  .u-section-4 .u-container-layout-9 {
+    padding-bottom: 20px;
+  }
+
+  .u-section-4 .u-container-layout-11 {
+    padding-bottom: 20px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 305px;
+  }
+} .u-section-5 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/2b476a885d281de58af537eca3c9da83dcbfa09f1b2d0b79bf2c7dcb40b102195f917c7169d61eefbb393c80c17cad386b9fb58f7b4b3209505012_1280.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-5 .u-sheet-1 {
+  min-height: 464px;
+}
+
+.u-section-5 .u-text-1 {
+  font-weight: 400;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: 49px auto 0 0;
+}
+
+.u-section-5 .u-table-1 {
+  margin-top: 53px;
+  margin-bottom: 40px;
+}
+
+.u-section-5 .u-table-entity-1 {
+  min-height: 100px;
+}
+
+.u-section-5 .u-table-header-1 {
+  font-weight: 700;
+  background-image: none;
+}
+
+@media (max-width: 1199px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 383px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 293px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 220px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 139px;
+  }
+} .u-section-6 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/Basuki_Rahmat_Surabaya-1.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-6 .u-sheet-1 {
+  min-height: 1037px;
+}
+
+.u-section-6 .u-text-1 {
+  font-weight: 400;
+  font-size: 3.75rem;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: 50px auto 0;
+}
+
+.u-section-6 .u-layout-wrap-1 {
+  margin-top: 68px;
+  margin-bottom: 42px;
+}
+
+.u-section-6 .u-image-1 {
+  min-height: 273px;
+  background-image: url("images/609fbcd2ed6d9.jpg");
+  background-position: 50% 50%;
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+}
+
+.u-section-6 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-6 .u-layout-cell-2 {
+  min-height: 431px;
+  background-image: none;
+}
+
+.u-section-6 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-6 .u-text-2 {
+  margin: 0;
+}
+
+.u-section-6 .u-text-3 {
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: 20px 0 0;
+}
+
+.u-section-6 .u-image-2 {
+  min-height: 273px;
+  background-image: url("images/resep-rawon-daging-sapi-ala-chef-devina-hermawan-untuk-idul-adha-XX5PpJavxT.jpg");
+  background-position: 25.95% 50%;
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+}
+
+.u-section-6 .u-container-layout-3 {
+  padding: 30px;
+}
+
+.u-section-6 .u-layout-cell-4 {
+  min-height: 459px;
+  background-image: none;
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+}
+
+.u-section-6 .u-container-layout-4 {
+  padding: 30px 22px;
+}
+
+.u-section-6 .u-text-4 {
+  margin: 0 15px 0 0;
+}
+
+.u-section-6 .u-text-5 {
+  margin: 20px 15px 0 0;
+}
+
+.u-section-6 .u-layout-cell-5 {
+  min-height: 403px;
+  background-image: none;
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+}
+
+.u-section-6 .u-container-layout-5 {
+  padding: 30px;
+}
+
+.u-section-6 .u-text-6 {
+  font-size: 2.0625rem;
+  margin: 0;
+}
+
+.u-section-6 .u-text-7 {
+  margin: 20px 0 0;
+}
+
+.u-section-6 .u-image-3 {
+  min-height: 403px;
+  background-image: url("images/1200px-20170125_105849283_Lontong_balap.jpg");
+  background-position: 50% 50%;
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+}
+
+.u-section-6 .u-container-layout-6 {
+  padding: 30px;
+}
+
+.u-section-6 .u-layout-cell-7 {
+  min-height: 403px;
+  background-image: none;
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+}
+
+.u-section-6 .u-container-layout-7 {
+  padding: 30px;
+}
+
+.u-section-6 .u-text-8 {
+  margin: 0;
+}
+
+.u-section-6 .u-text-9 {
+  margin: 16px 0 0;
+}
+
+.u-section-6 .u-image-4 {
+  min-height: 273px;
+  background-image: url("images/603330779a2d2.jpg");
+  background-position: 50% 50%;
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+}
+
+.u-section-6 .u-container-layout-8 {
+  padding: 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 890px;
+  }
+
+  .u-section-6 .u-text-1 {
+    margin-top: 241px;
+  }
+
+  .u-section-6 .u-layout-wrap-1 {
+    margin-top: 20px;
+  }
+
+  .u-section-6 .u-image-1 {
+    min-height: 225px;
+  }
+
+  .u-section-6 .u-layout-cell-2 {
+    min-height: 355px;
+  }
+
+  .u-section-6 .u-image-2 {
+    min-height: 225px;
+  }
+
+  .u-section-6 .u-layout-cell-4 {
+    min-height: 378px;
+  }
+
+  .u-section-6 .u-text-4 {
+    margin-right: 0;
+  }
+
+  .u-section-6 .u-text-5 {
+    margin-right: 0;
+  }
+
+  .u-section-6 .u-layout-cell-5 {
+    min-height: 332px;
+  }
+
+  .u-section-6 .u-image-3 {
+    min-height: 332px;
+  }
+
+  .u-section-6 .u-layout-cell-7 {
+    min-height: 332px;
+  }
+
+  .u-section-6 .u-image-4 {
+    min-height: 225px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 1583px;
+  }
+
+  .u-section-6 .u-text-1 {
+    margin-top: 742px;
+  }
+
+  .u-section-6 .u-layout-wrap-1 {
+    margin-top: -624px;
+    margin-bottom: 0;
+  }
+
+  .u-section-6 .u-image-1 {
+    min-height: 345px;
+    order: 0;
+  }
+
+  .u-section-6 .u-layout-cell-2 {
+    min-height: 100px;
+    order: 1;
+  }
+
+  .u-section-6 .u-image-2 {
+    min-height: 345px;
+    order: 3;
+  }
+
+  .u-section-6 .u-layout-cell-4 {
+    min-height: 100px;
+    order: 2;
+  }
+
+  .u-section-6 .u-layout-cell-5 {
+    min-height: 100px;
+    order: 1;
+  }
+
+  .u-section-6 .u-image-3 {
+    min-height: 509px;
+    order: 0;
+  }
+
+  .u-section-6 .u-layout-cell-7 {
+    min-height: 100px;
+    order: 2;
+  }
+
+  .u-section-6 .u-image-4 {
+    min-height: 345px;
+    order: 3;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 2475px;
+  }
+
+  .u-section-6 .u-text-1 {
+    margin-top: 2328px;
+    font-size: 1.875rem;
+  }
+
+  .u-section-6 .u-layout-wrap-1 {
+    margin-top: -2203px;
+  }
+
+  .u-section-6 .u-image-1 {
+    min-height: 518px;
+  }
+
+  .u-section-6 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-6 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-6 .u-image-2 {
+    min-height: 518px;
+    order: 2;
+  }
+
+  .u-section-6 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-6 .u-layout-cell-4 {
+    order: 3;
+  }
+
+  .u-section-6 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-6 .u-container-layout-5 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-6 .u-text-6 {
+    font-size: 1.875rem;
+  }
+
+  .u-section-6 .u-image-3 {
+    min-height: 764px;
+  }
+
+  .u-section-6 .u-container-layout-6 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-6 .u-layout-cell-7 {
+    order: 3;
+  }
+
+  .u-section-6 .u-container-layout-7 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-6 .u-image-4 {
+    min-height: 518px;
+    order: 2;
+  }
+
+  .u-section-6 .u-container-layout-8 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 1707px;
+  }
+
+  .u-section-6 .u-text-1 {
+    margin-top: 1587px;
+    font-size: 1.5rem;
+  }
+
+  .u-section-6 .u-layout-wrap-1 {
+    margin-top: 20px;
+    margin-bottom: 42px;
+  }
+
+  .u-section-6 .u-image-1 {
+    min-height: 326px;
+  }
+
+  .u-section-6 .u-image-2 {
+    min-height: 326px;
+  }
+
+  .u-section-6 .u-text-6 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-6 .u-image-3 {
+    min-height: 481px;
+  }
+
+  .u-section-6 .u-image-4 {
+    min-height: 326px;
+  }
+} .u-section-7 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/surabaya-at-night.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-7 .u-sheet-1 {
+  min-height: 830px;
+}
+
+.u-section-7 .u-text-1 {
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: 60px auto 0;
+}
+
+.u-section-7 .u-gallery-1 {
+  height: 552px;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  grid-gap: 17px 17px;
+}
+
+.u-section-7 .u-gallery-inner-1 {
+  grid-template-columns: repeat(3, auto);
+  grid-gap: 17px;
+}
+
+.u-section-7 .u-back-image-1 {
+  object-position: 37.15% 50%;
+}
+
+.u-section-7 .u-over-slide-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-7 .u-over-slide-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-7 .u-over-slide-3 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-7 .u-over-slide-4 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-7 .u-over-slide-5 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-7 .u-over-slide-6 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-7 .u-sheet-1 {
+    min-height: 689px;
+  }
+
+  .u-section-7 .u-gallery-1 {
+    height: 455px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-7 .u-sheet-1 {
+    min-height: 1018px;
+  }
+
+  .u-section-7 .u-gallery-1 {
+    height: 784px;
+  }
+
+  .u-section-7 .u-gallery-inner-1 {
+    grid-template-columns: repeat(2, auto);
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-7 .u-sheet-1 {
+    min-height: 2586px;
+  }
+
+  .u-section-7 .u-gallery-1 {
+    height: 2352px;
+  }
+
+  .u-section-7 .u-gallery-inner-1 {
+    grid-template-columns: repeat(1, auto);
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-7 .u-sheet-1 {
+    min-height: 1715px;
+  }
+
+  .u-section-7 .u-gallery-1 {
+    height: 1481px;
+  }
+} .u-section-8 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/61ea96a857637.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-8 .u-sheet-1 {
+  min-height: 800px;
+}
+
+.u-section-8 .u-text-1 {
+  font-weight: 700;
+  font-size: 5rem;
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: 45px 0 0;
+}
+
+.u-section-8 .u-text-2 {
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  background-image: none;
+  margin: 24px 135px 60px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-8 .u-sheet-1 {
+    min-height: 660px;
+  }
+
+  .u-section-8 .u-text-1 {
+    font-size: 6rem;
+  }
+
+  .u-section-8 .u-text-2 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-8 .u-sheet-1 {
+    min-height: 506px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-8 .u-sheet-1 {
+    min-height: 380px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-8 .u-sheet-1 {
+    min-height: 239px;
+  }
+
+  .u-section-8 .u-text-1 {
+    font-size: 3.75rem;
+  }
+} .u-section-9 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/surabaya.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-9 .u-sheet-1 {
+  min-height: 800px;
+}
+
+.u-section-9 .u-text-1 {
+  font-weight: 700;
+  font-size: 5rem;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: -300px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: 70px auto 0 0;
+}
+
+.u-section-9 .u-text-2 {
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 300px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  background-image: none;
+  margin: 71px 135px 60px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-9 .u-sheet-1 {
+    min-height: 660px;
+  }
+
+  .u-section-9 .u-text-1 {
+    font-size: 6rem;
+  }
+
+  .u-section-9 .u-text-2 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-9 .u-sheet-1 {
+    min-height: 506px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-9 .u-sheet-1 {
+    min-height: 380px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-9 .u-sheet-1 {
+    min-height: 239px;
+  }
+
+  .u-section-9 .u-text-1 {
+    font-size: 3.75rem;
+  }
+} .u-section-10 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/surabaya-night-surabaya-night-211325706.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-10 .u-sheet-1 {
+  min-height: 800px;
+}
+
+.u-section-10 .u-text-1 {
+  font-weight: 700;
+  font-size: 5rem;
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: 111px auto 0;
+}
+
+.u-section-10 .u-text-2 {
+  --animation-custom_in-translate_x: 300px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  background-image: none;
+  margin: 120px 68px 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-10 .u-sheet-1 {
+    min-height: 660px;
+  }
+
+  .u-section-10 .u-text-1 {
+    font-size: 6rem;
+  }
+
+  .u-section-10 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-10 .u-sheet-1 {
+    min-height: 506px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-10 .u-sheet-1 {
+    min-height: 380px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-10 .u-sheet-1 {
+    min-height: 239px;
+  }
+
+  .u-section-10 .u-text-1 {
+    font-size: 3.75rem;
+  }
+}
